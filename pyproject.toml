@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "jube2"
+version = "2.5.1"
+authors = [ "Jayesh Badwaik <j.badwaik@fz-juelich.de>" ]
+description = "JUBE Benchmarking Environment"
+readme = "README.md"
+license = "GPLv3"
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Operating System :: OS Independent"
+]
+
